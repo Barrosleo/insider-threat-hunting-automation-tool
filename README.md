@@ -11,9 +11,11 @@ this project simulates an automated insider threat hunting system that aggregate
 
 ## usage
 1. Install dependencies:
+
 pip install -r requirements.txt
 
-2. Run the main application:
+3. Run the main application:
+
 python src/main.py
 
 
