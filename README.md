@@ -11,15 +11,16 @@ this project simulates an automated insider threat hunting system that aggregate
 
 ## usage
 1. Install dependencies:
-
+```
 pip install -r requirements.txt
-
+```
 3. Run the main application:
-
+```
 python src/main.py
-
+```
 
 ## repository structure
+```
 insider-threat-hunting-automation-tool/
 ├── README.md
 ├── requirements.txt
@@ -34,4 +35,4 @@ insider-threat-hunting-automation-tool/
     ├── playbook_executor.py
     ├── notification_system.py
     └── report_generator.py
-
+```
